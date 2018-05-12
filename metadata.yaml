@@ -1,0 +1,29 @@
+_repo: The-Dawn-and-the-Day--13-Or-The-Buddha-and-the-Christ-Part-I_14360
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Niles, Henry Thayer
+    birthdate: 1825
+    deathdate: 1901
+    gutenberg_agent_id: '5488'
+    url: http://www.gutenberg.org/2009/agents/5488
+description: ''
+gutenberg_bookshelf: Buddhism
+gutenberg_issued: '2004-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Gautama Buddha -- Poetry'
+- !lcsh 'Jesus Christ -- Poetry'
+- !lcsh 'Religious poetry'
+title: "The Dawn and the Day\r\nOr, The Buddha and the Christ, Part I"
+url: http://www.gutenberg.org/ebooks/14360
