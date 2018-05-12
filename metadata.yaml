@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5488'
     url: http://www.gutenberg.org/2009/agents/5488
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14360#The-Dawn-and-the-Day--13-Or-The-Buddha-and-the-Christ-Part-I
 gutenberg_bookshelf: Buddhism
 gutenberg_issued: '2004-12-15'
 gutenberg_type: Text
